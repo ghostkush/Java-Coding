@@ -1,0 +1,7 @@
+1. Write a program to add two input numbers and display the result by printing it out on the console. Use a main method and pass arguments from the command line prompt. (Java Language Constructs)
+2. Understand the usage of as many keywords as possible by writing a program to demonstrate the same. (Java Language Constructs)
+3. Write a program/multiple programs to illustrate the usage of the following: if statement, for loop(simple and enhanced), while loop, do-while loop, switch statement. Use simple logic such as addition of numbers. (Control Constructs)
+4. Write programs to illustrate encapsulation, inheritance, polymorphism, overriding, overloading, interfaces. (OO concepts)
+5. Write a program/multiple programs to illustrate the usage of the following operators: +, -, *, /, %, =, ==, !=, ++, --, >, <, >=, <=, &, |, ^, ||, &&, !, &=, |=, ^=, ?:, String concatenation operator (+). (Operator basics)
+6. Write a program which uses a try block, multiple catch blocks and a finally block. Use specific exceptions first followed by generic ones, then interchange the usage to see the difference. (Exception Handling)
+7. Write a program which uses the Java utility classes from the java.util and java.math packages.(Framework Utility classes)
